@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <iostream>
+=======
+#include<iostream>
+>>>>>>> febdaa066556d7be74e03668693124aa68a135c6
 using namespace std;
 
 int main(){
